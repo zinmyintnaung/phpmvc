@@ -1,0 +1,15 @@
+{
+    "name": "zinmy/phpmvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "zinmyintnaung",
+            "email": "zinmyintnaung@gmail.com"
+        }
+    ],
+    "require": {}
+}
